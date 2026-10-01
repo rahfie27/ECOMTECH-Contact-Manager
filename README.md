@@ -1,3 +1,5 @@
+<img src="https://www.upload.ee/image/19807450/2026-10-02_031006.png" border="0" alt="2026-10-02_031006.png" />
+
 # ECOMTECH Contact Manager
 
 Desktop contact-management application built with Python, PyQt5, and SQLite.
